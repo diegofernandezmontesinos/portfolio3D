@@ -47,9 +47,13 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I'm a skilled software developer with experience in TypeScript and
-        JavaScript, and expertise in frameworks like React, Node.js, and
-        Three.js. I'm a quick learner and collaborate closely with clients to
+        I'm a skilled Front-End software developer with experience in HTML, CSS, TypeScript and
+        JavaScript, and expertise in frameworks like React, Node.js, Angular V12, bootstrap and
+        AngularJs. 
+
+        In other areas, I have knowledge with python, java, MySQl, Oracle SQL, Git (sourceTree-GitLab-GitHub)
+        
+        I'm a quick learner and collaborate closely with clients to
         create efficient, scalable, and user-friendly solutions that solve
         real-world problems. Let's work together to bring your ideas to life!
       </motion.p>
